@@ -42,7 +42,7 @@ En este perfil comparto proyectos, trabajos académicos y ejercicios desarrollad
 ---
 ## Actualmente
 
-Continúo fortaleciendo mi formación en **modelamiento estadístico, análisis de datos y programación**, profundizando en áreas como **análisis de regresión, muestreo, procesos estocásticos, métodos numéricos y programación estadística**.
+Continúo fortaleciendo mi formación en modelamiento estadístico, análisis de datos y programación, profundizando en áreas como **análisis de regresión, muestreo, procesos estocásticos, métodos numéricos y programación estadística**.
 
 Utilizo principalmente **R y Python** para aplicar estos conocimientos en el análisis, modelamiento y tratamiento de datos, a través de ejercicios y proyectos académicos.
 
