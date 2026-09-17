@@ -2,7 +2,7 @@
 
 Estudiante de **Estadística** en la **Universidad Nacional de Colombia — Sede Medellín**.
 
-Me interesa el análisis de datos y la aplicación de métodos estadísticos a problemas reales. En este perfil reúno proyectos, trabajos académicos y ejercicios desarrollados durante mi formación.
+En este perfil comparto proyectos, trabajos académicos y ejercicios desarrollados a lo largo de mi formación en Estadística.
 
 ---
 
@@ -41,14 +41,10 @@ Me interesa el análisis de datos y la aplicación de métodos estadísticos a p
 
 ---
 
-## 🌱 Actualmente
+## Actualmente
 
 Fortaleciendo mis conocimientos en **estadística, programación y análisis de datos** mediante proyectos y trabajos académicos.
 
 En mis repositorios encontrarás principalmente proyectos desarrollados en **R y Python**, análisis estadísticos, ejercicios de programación y aplicaciones de los métodos que voy aprendiendo durante la carrera.
 
----
 
-### En este perfil
-
-`Estadística` · `R` · `Python` · `SQL` · `Análisis de datos`
