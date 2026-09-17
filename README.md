@@ -1,4 +1,4 @@
-# Hola, soy Fernanda 👋
+# Hola, soy Fernanda.
 
 Estudiante de **Estadística** en la **Universidad Nacional de Colombia — Sede Medellín**.
 
