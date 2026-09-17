@@ -40,11 +40,9 @@ En este perfil comparto proyectos, trabajos académicos y ejercicios desarrollad
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ---
-
 ## Actualmente
 
-Fortaleciendo mis conocimientos en **estadística, programación y análisis de datos** mediante proyectos y trabajos académicos.
+Continúo fortaleciendo mi formación en **modelamiento estadístico, análisis de datos y programación**, profundizando en áreas como **análisis de regresión, muestreo, procesos estocásticos, métodos numéricos y programación estadística**.
 
-En mis repositorios encontrarás principalmente proyectos desarrollados en **R y Python**, análisis estadísticos, ejercicios de programación y aplicaciones de los métodos que voy aprendiendo durante la carrera.
-
+Utilizo principalmente **R y Python** para aplicar estos conocimientos en el análisis, modelamiento y tratamiento de datos, a través de ejercicios y proyectos académicos.
 
