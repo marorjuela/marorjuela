@@ -5,6 +5,13 @@ Estudiante de **Estadística** en la Universidad Nacional de Colombia — Sede M
 En este perfil comparto proyectos, trabajos académicos y ejercicios desarrollados a lo largo de mi formación en Estadística.
 
 ---
+## Actualmente
+
+Continúo fortaleciendo mi formación en modelamiento estadístico, análisis de datos y programación, profundizando en áreas como **análisis de regresión, muestreo, procesos estocásticos, métodos numéricos y programación estadística**.
+
+Utilizo principalmente **R y Python** para aplicar estos conocimientos en el análisis, modelamiento y tratamiento de datos, a través de ejercicios y proyectos académicos.
+
+---
 
 ## 🛠️ Herramientas
 
@@ -27,10 +34,5 @@ En este perfil comparto proyectos, trabajos académicos y ejercicios desarrollad
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
----
-## Actualmente
 
-Continúo fortaleciendo mi formación en modelamiento estadístico, análisis de datos y programación, profundizando en áreas como **análisis de regresión, muestreo, procesos estocásticos, métodos numéricos y programación estadística**.
-
-Utilizo principalmente **R y Python** para aplicar estos conocimientos en el análisis, modelamiento y tratamiento de datos, a través de ejercicios y proyectos académicos.
 
