@@ -1,6 +1,6 @@
 # Fernanda Orjuela
 
-Estudiante de **Estadística** en la **Universidad Nacional de Colombia — Sede Medellín*.
+Estudiante de **Estadística** en la Universidad Nacional de Colombia — Sede Medellín.
 
 En este perfil comparto proyectos, trabajos académicos y ejercicios desarrollados a lo largo de mi formación en Estadística.
 
